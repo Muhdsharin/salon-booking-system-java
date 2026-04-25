@@ -30,13 +30,3 @@ This system allows customers to book appointments and enables administrators to 
 
 ---
 
-##Screenshots
-
-### Admin Dashboard
-![Admin](images/admin-dashboard.png)
-
-### Booking System
-![Booking](images/booking-screen.png)
-
----
-
